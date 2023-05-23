@@ -43,6 +43,7 @@ img:hover{
     font: 10rem;
     z-index: 9999;
     text-align: center;
+    color: rgb(44, 42, 42);
 }
 .clone{
     display: none;
